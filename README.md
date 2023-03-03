@@ -8,7 +8,7 @@ chmod 777 helm-install.sh
 
 
 
-#### Basic Helm command
+## Basic Helm command
 
 helm --help     : to have help
 
